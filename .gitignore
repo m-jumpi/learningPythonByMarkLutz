@@ -9,3 +9,4 @@
 
 ### PyCharm+all Patch ###
 .idea/*
+/venv/
